@@ -1,0 +1,4 @@
+# Legally required to keep this file
+!audit.log
+*.log
+tmp/
